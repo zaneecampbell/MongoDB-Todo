@@ -1,3 +1,5 @@
+// This is an old unfinished project using older practices, I've since moved on to more standardized and relativent methods and technologies
+
 const mongoose = require('mongoose');
 
 const Todo = mongoose.model('Todo', {

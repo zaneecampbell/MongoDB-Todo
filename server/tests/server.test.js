@@ -1,3 +1,5 @@
+// This is an old unfinished project using older practices, I've since moved on to more standardized and relativent methods and technologies
+
 const expect = require('expect');
 const request = require('supertest');
 const {ObjectID} = require('mongodb');

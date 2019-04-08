@@ -1,3 +1,5 @@
+// This is an old unfinished project using older practices, I've since moved on to more standardized and relativent methods and technologies
+
 const {ObjectID} = require('mongodb');
 
 const {mongoose} = require('./../server/db/mongoose');

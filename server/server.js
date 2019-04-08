@@ -1,3 +1,5 @@
+// This is an old unfinished project using older practices, I've since moved on to more standardized and relativent methods and technologies
+
 const _ = require('lodash');
 const express = require('express');
 const bodyParser = require('body-parser');
